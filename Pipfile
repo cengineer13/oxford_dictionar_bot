@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+wikipedia = "1.4.0"
+aiogram = "2.21"
+googletrans = "==3.1.0a0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
